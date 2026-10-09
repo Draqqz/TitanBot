@@ -23,9 +23,9 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Custom Status", // required by Discord API, not shown in the client
+        name: ".gg/foxstocks", // required by Discord API, not shown in the client
         state: "Fox Stocks",     // this is what people actually see
-        type: 1,               // Custom
+        type: 3,               // Custom
       },
     ],
   },
